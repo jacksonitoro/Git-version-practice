@@ -1,0 +1,3 @@
+error: disk full
+info: ok
+warn: hot
